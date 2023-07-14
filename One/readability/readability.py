@@ -44,4 +44,4 @@ for word in words:
     letter_count += len(word)
 
 grade = getGrade(letter_count, word_count, sentence_count)
-print("garde:", grade)
+print("garde:", round(grade))
