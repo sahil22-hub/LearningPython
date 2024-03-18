@@ -1,1 +1,1 @@
-# python_1
+This repository contains a collection of small projects I developed while learning Python programming. These projects cover various concepts and techniques and serve as a practical way to solidify my understanding of the language.
